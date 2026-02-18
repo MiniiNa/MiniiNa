@@ -1,4 +1,4 @@
-#<h1 align="center"> ¡Hola, soy Diana! Entre gatos 🐾, mancuernas 🏋️ y líneas de código 💻</h1>
+# <h1 align="center"> ¡Hola, soy Diana! Entre gatos 🐾, mancuernas 🏋️ y líneas de código 💻</h1>
 
 *Me apasiona la tecnología y creo que detrás de cada gran proyecto hay una gran historia que contar. Explora mi GitHub y descubre lo que puedo construir.*  
 
