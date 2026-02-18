@@ -54,13 +54,13 @@
 
 ## ✨ Un poco más sobre mí
 
-☕ Café + código + datos = ❤️
-🚀 Aprendiendo cada día
-📊 Transformando datos en información y código en soluciones
+☕ Café + código + datos = ❤️  
+🚀 Aprendiendo cada día  
+📊 Transformando datos en información y código en soluciones  
 
 ## 📫 Contáctame
 
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/diana-martinez-tech/">
+- 💼 LinkedIn: (https://www.linkedin.com/in/diana-martinez-tech/)
 - 📧 Email: diana.martinez.tech@gmail.com
 
 
