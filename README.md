@@ -1,11 +1,11 @@
-#  Hola, soy Diana! 👋  
+#<h1 align="center"> ¡Hola, soy Diana! Entre gatos 🐾, mancuernas 🏋️ y líneas de código 💻</h1>
 
-*Me apasiona la tecnología y creo que detrás de cada gran proyecto hay una gran historia que contar. Explora mi GitHub y descubre lo que puedo construir.*
+*Me apasiona la tecnología y creo que detrás de cada gran proyecto hay una gran historia que contar. Explora mi GitHub y descubre lo que puedo construir.*  
 
 
 ## 👨‍💻 Conóceme
 
-🚀 Apasionada por la tecnología y el aprendizaje continuo  
+🚀 Apasionada por la tecnología  
 🎓 Formación en desarrollo frontend  
 📊 Actualmente en un BootCamp de Data Analytics  
 💡 Interesada en combinar desarrollo y análisis de datos  
@@ -28,13 +28,13 @@
 
 ## 🎯 Mis objetivos
 
-🚀 Crecer como Data Analyst y desarrolladora junior  
+🚀 Crecer como Data Analyst y Desarrolladora Web 
 💼 Abierta a oportunidades y nuevos proyectos
 
 
 ## 🌟 Un poco más sobre mí
 
-☕ Café + código + datos = ❤️    
+☕ Café + código = ❤️    
 🐱 Cat lover  
 🏋️ Entrenar no es un hobby, es mi forma de vida  
 🎧 La música me acompaña en cada momento  
@@ -46,4 +46,4 @@
 
 
   
-**✨ Gracias por visitar mi perfil ✨**
+<p align="center"> ✨ Gracias por visitar mi perfil ✨ </p>
