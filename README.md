@@ -26,21 +26,6 @@
 🧠 Mejorando mis habilidades en Python y SQL  
 
 
-## 🌱 Actualmente aprendiendo
-
-- Data Analysis  
-- Fundamentos
-- Limpieza de datos
-- Visualización de datos
-- Estadística
-- Eda avanzado
-- Reporting
-- Clustering
-- Clasificación
-- Pipelines ML
-- Series temporales
-
-
 ## 🎯 Mis objetivos
 
 🚀 Crecer como Data Analyst y desarrolladora junior  
