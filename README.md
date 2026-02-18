@@ -60,7 +60,9 @@
 
 ## 📫 Contáctame
 
-- 💼 LinkedIn: [linkedin.com/in/diana-martínez-38a127395]
+- 💼 LinkedIn: <a href="(https://www.linkedin.com/in/diana-martinez-tech/)">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
+</a>
 - 📧 Email: diana.martinez.tech@gmail.com
 
 
