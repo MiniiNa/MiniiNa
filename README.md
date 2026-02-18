@@ -22,7 +22,7 @@
 ## 🚀 En qué estoy trabajando
 
 💻 Construyendo proyectos frontend  
-📊 Proyectos de análisis de datos  
+📊 Transformando datos en información y código en soluciones  
 🧠 Mejorando mis habilidades en Python y SQL  
 
 
@@ -41,17 +41,18 @@
 - Series temporales
 
 
-## 🎯 Objetivo
+## 🎯 Mis objetivos
 
 🚀 Crecer como Data Analyst y desarrolladora junior  
 💼 Abierta a oportunidades y nuevos proyectos
 
 
-## ✨ Un poco más sobre mí
+## 🌟 Un poco más sobre mí
 
-☕ Café + código + datos = ❤️  
-🚀 Aprendiendo cada día  
-📊 Transformando datos en información y código en soluciones  
+☕ Café + código + datos = ❤️    
+🐱 Cat lover  
+🏋️ Entrenar no es un hobby, es mi forma de vida  
+🎧 La música me acompaña en cada momento  
 
 ## 📫 Contáctame
 
