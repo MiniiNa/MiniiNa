@@ -1,34 +1,29 @@
-# 👋 Hola, soy Diana!
+#  Hola, soy Diana! 👋  
 
 *Me apasiona la tecnología y creo que detrás de cada gran proyecto hay una gran historia que contar. Explora mi GitHub y descubre lo que puedo construir.*
 
 
 ## 👨‍💻 Conóceme
 
-- 🚀 Apasionada por la tecnología y el aprendizaje continuo
-- 🎓 Formación en desarrollo frontend
-- 📊 Actualmente en un BootCamp de Data Analytics
-- 💡 Interesada en combinar desarrollo y análisis de datos
-- 🌱 Siempre aprendiendo
+🚀 Apasionada por la tecnología y el aprendizaje continuo  
+🎓 Formación en desarrollo frontend  
+📊 Actualmente en un BootCamp de Data Analytics  
+💡 Interesada en combinar desarrollo y análisis de datos  
+🌱 Siempre aprendiendo  
 
 
 ## 🛠️ Tecnologías y herramientas
 
-💻 Frontend  
-- HTML, CSS, JavaScript   
+💻 Frontend: HTML, CSS, JavaScript   
 
-📊 Data  
-- Python  
-- SQL  
-- Pandas  
-- Data Visualization  
+📊 Data: Python, SQL, Pandas, Data Visualization  
 
 
 ## 🚀 En qué estoy trabajando
 
-- 💻 Construyendo proyectos frontend
-- 📊 Proyectos de análisis de datos  
-- 🧠 Mejorando mis habilidades en Python y SQL    
+💻 Construyendo proyectos frontend  
+📊 Proyectos de análisis de datos  
+🧠 Mejorando mis habilidades en Python y SQL  
 
 
 ## 🌱 Actualmente aprendiendo
@@ -60,8 +55,9 @@
 
 ## 📫 Contáctame
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/diana-martinez-tech/)
-- 📧 Email: diana.martinez.tech@gmail.com
+💼 LinkedIn: (https://www.linkedin.com/in/diana-martinez-tech/)  
+📧 Email: diana.martinez.tech@gmail.com  
 
 
-**✨ Gracias por visitar mi perfil**
+  
+**✨ Gracias por visitar mi perfil ✨**
