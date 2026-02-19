@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Conóceme
 
-🚀 Apasionada por la tecnología  
+🚀 Fascinada por el mundo tecnológico  
 🎓 Formación en desarrollo frontend  
 📊 Actualmente en un BootCamp de Data Analytics  
 💡 Interesada en combinar desarrollo y análisis de datos  
